@@ -8,6 +8,7 @@ import com.hp.hpl.jena.query.ParameterizedSparqlString;
 import com.hp.hpl.jena.query.ResultSet;
 import com.hp.hpl.jena.rdf.model.Model;
 
+
 public class MainRun {
 	
 	public DBP dbp = new DBP();
